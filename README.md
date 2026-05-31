@@ -19,7 +19,7 @@
 - 💼 3 years of professional experience as an **Angular Frontend Developer** at **Infosys Limited** and  **Marketing Executive & Program Coordinator**  at  **OMICS International Private Limited**
 - 🌍 Based in **Vienna, Austria** — eligible to work up to **20 hours/week** (Student Permit)
 - 🔭 Currently working on: Data Visualization dashboards & TU Wien coursework
-- 🌱 Learning: Advanced SQL, Machine Learning, German (A1 → A2)
+- 🌱 Learning: Advanced SQL, Machine Learning, German (A1 learning)
 - 🤝 Open to: **Part-time · Working Student · Internship** roles in Vienna
 
 ---
